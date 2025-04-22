@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\alibi\\.gradle\\daemon\\8.0\\com.example.mycustombrowser.app-mergeDebugResources-27:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\alibi\\.gradle\\daemon\\8.0\\com.example.mycustombrowser.app-main-30:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.mycustombrowser.app-mergeDebugResources-27:/layout/activity_main.xml",
+        "source": "com.example.mycustombrowser.app-main-30:/layout/activity_main.xml"
+    }
+]

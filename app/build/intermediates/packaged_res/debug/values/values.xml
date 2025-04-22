@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="blue">#0000FF</color>
+    <color name="buttonBlue">#2196F3</color>
+    <color name="buttonBrown">#795548</color>
+    <color name="buttonGreen">#00C853</color>
+    <color name="buttonOrange">#FF5722</color>
+    <color name="buttonViolet">#7F00FF</color>
+    <color name="buttonYellow">#FFC107</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">My Safe Browser</string>
+    <string name="blue">Blue</string>
+    <string name="brown">Brown</string>
+    <string name="green">Green</string>
+    <string name="orange">Orange</string>
+    <string name="searchButton">SEARCH</string>
+    <string name="violet">Violet</string>
+    <string name="web_link">Web Link</string>
+    <string name="yellow">Yellow</string>
+    <style name="Base.Theme.BrowserApp" parent="Theme.MaterialComponents.Light.NoActionBar">
+
+
+    </style>
+    <style name="Theme.BrowserApp" parent="Base.Theme.BrowserApp"/>
+</resources>
